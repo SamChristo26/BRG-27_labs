@@ -67,6 +67,6 @@ Steps completed:
 ![IMG_8460](https://github.com/user-attachments/assets/d8fd5bc0-0791-4533-b584-6b1f7006eda3)
 
   ## Reflection
-  This lab provided hands-on exprience in deploying and managing a cloud based server .Several challenges were encountered, particularly with SSH authentication and file permissions,which were resolved through trouble shooting.
+This lab provided hands-on exprience in deploying and managing a cloud based server .Several challenges were encountered, particularly with SSH authentication and file permissions,which were resolved through trouble shooting.
 Overall ,the lab enhanced my understanding of Linux systems ,cloud computing,and automation.These skills are directly applicable to role such as system adminstation and DevOps
-  -
+  
