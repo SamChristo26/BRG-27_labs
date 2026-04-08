@@ -12,8 +12,8 @@ Commands explored:
 -mkdir
 -touch
 These commands helped build familiarity with the Linux filesystem and terminal usage
+![6247019418412060404](https://github.com/user-attachments/assets/504224da-6302-4d7c-a4a2-188fa0e65c70)
 
-![IMG_8434](https://github.com/user-attachments/assets/45f41dd5-0857-4dbe-a434-d577e058b090)
 
 ## Total Cost of Ownership (TCO)
 A cost comparision was performed between on-premise infrastructure and cloud- based solutions over a 3 year period 
